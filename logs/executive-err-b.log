@@ -1,0 +1,275 @@
+[1:000049]	 MAIN	Start main process
+
+[1:000176]	 EXCV	Executive wakes up
+[1:000177]	 EXCV	Checking deadline miss
+[1:000178]	 EXCV	Begin frame 0
+[1:000183]	 EXCV	Signal on task 0
+[1:000185]	 EXCV	Signal on task 1
+[1:000186]	 EXCV	Signal on task 2
+[1:000186]	 EXCV	Executive sleeps
+
+[1:000189]	 TSK0	Execution started
+
+[1:040228]	 EXCV	Executive wakes up
+[1:040229]	 EXCV	Checking deadline miss
+[1:040229]	 EXCV	DEADLINE MISS DETECTED from task 0
+[1:040230]	 EXCV	ABORTING TASK 1
+[1:040230]	 EXCV	ABORTING TASK 2
+[1:040231]	 EXCV	Begin frame 1
+[1:040232]	 EXCV	Signal on task 0
+[1:040234]	 EXCV	Signal on task 3
+[1:040234]	 EXCV	Executive sleeps
+
+[1:042574]	 TSK0	Execution stopped
+[1:042578]	 TSK3	Execution started
+[1:069050]	 TSK3	Execution stopped
+
+[1:080313]	 EXCV	Executive wakes up
+[1:080317]	 EXCV	Checking deadline miss
+[1:080319]	 EXCV	Begin frame 2
+[1:080325]	 EXCV	Signal on task 0
+[1:080327]	 EXCV	Signal on task 1
+[1:080327]	 EXCV	Executive sleeps
+
+[1:080330]	 TSK0	Execution started
+[1:088313]	 TSK0	Execution stopped
+[1:088315]	 TSK1	Execution started
+[1:106353]	 TSK1	Execution stopped
+
+[1:120313]	 EXCV	Executive wakes up
+[1:120317]	 EXCV	Checking deadline miss
+[1:120319]	 EXCV	Begin frame 3
+[1:120324]	 EXCV	Signal on task 0
+[1:120326]	 EXCV	Signal on task 1
+[1:120326]	 EXCV	Executive sleeps
+
+[1:120330]	 TSK0	Execution started
+[1:128640]	 TSK0	Execution stopped
+[1:128669]	 TSK1	Execution started
+[1:146642]	 TSK1	Execution stopped
+
+[1:160313]	 EXCV	Executive wakes up
+[1:160317]	 EXCV	Checking deadline miss
+[1:160319]	 EXCV	Begin frame 4
+[1:160324]	 EXCV	Signal on task 0
+[1:160327]	 EXCV	Signal on task 1
+[1:160329]	 EXCV	Signal on task 4
+[1:160329]	 EXCV	Executive sleeps
+
+[1:160333]	 TSK0	Execution started
+[1:168331]	 TSK0	Execution stopped
+[1:168334]	 TSK1	Execution started
+[1:185983]	 TSK1	Execution stopped
+[1:185985]	 TSK4	Execution started
+[1:193982]	 TSK4	Execution stopped
+
+[1:200312]	 EXCV	Executive wakes up
+[1:200316]	 EXCV	Checking deadline miss
+[1:200318]	 EXCV	Begin frame 0
+[1:200324]	 EXCV	Signal on task 0
+[1:200326]	 EXCV	Signal on task 1
+[1:200328]	 EXCV	Signal on task 2
+[1:200329]	 EXCV	Executive sleeps
+
+[1:200332]	 TSK0	Execution started
+[1:208395]	 TSK0	Execution stopped
+[1:208398]	 TSK1	Execution started
+[1:227654]	 TSK1	Execution stopped
+[1:227663]	 TSK2	Execution started
+[1:235518]	 TSK2	Execution stopped
+
+[1:240314]	 EXCV	Executive wakes up
+[1:240318]	 EXCV	Checking deadline miss
+[1:240320]	 EXCV	Begin frame 1
+[1:240325]	 EXCV	Signal on task 0
+[1:240328]	 EXCV	Signal on task 3
+[1:240328]	 EXCV	Executive sleeps
+
+[1:240332]	 TSK0	Execution started
+[1:248336]	 TSK0	Execution stopped
+[1:248339]	 TSK3	Execution started
+[1:274812]	 TSK3	Execution stopped
+
+[1:280315]	 EXCV	Executive wakes up
+[1:280318]	 EXCV	Checking deadline miss
+[1:280321]	 EXCV	Begin frame 2
+[1:280326]	 EXCV	Signal on task 0
+[1:280328]	 EXCV	Signal on task 1
+[1:280329]	 EXCV	Executive sleeps
+
+[1:280332]	 TSK0	Execution started
+
+[1:320227]	 EXCV	Executive wakes up
+[1:320227]	 EXCV	Checking deadline miss
+[1:320228]	 EXCV	DEADLINE MISS DETECTED from task 0
+[1:320229]	 EXCV	ABORTING TASK 1
+[1:320229]	 EXCV	Begin frame 3
+[1:320230]	 EXCV	Signal on task 0
+[1:320231]	 EXCV	Signal on task 1
+[1:320231]	 EXCV	Executive sleeps
+
+[1:322799]	 TSK0	Execution stopped
+[1:322802]	 TSK1	Execution started
+[1:340450]	 TSK1	Execution stopped
+
+[1:360311]	 EXCV	Executive wakes up
+[1:360315]	 EXCV	Checking deadline miss
+[1:360317]	 EXCV	Begin frame 4
+[1:360323]	 EXCV	Signal on task 0
+[1:360325]	 EXCV	Signal on task 1
+[1:360327]	 EXCV	Signal on task 4
+[1:360328]	 EXCV	Executive sleeps
+
+[1:360331]	 TSK0	Execution started
+[1:368359]	 TSK0	Execution stopped
+[1:368361]	 TSK1	Execution started
+[1:386010]	 TSK1	Execution stopped
+[1:386011]	 TSK4	Execution started
+[1:393856]	 TSK4	Execution stopped
+
+[1:400315]	 EXCV	Executive wakes up
+[1:400319]	 EXCV	Checking deadline miss
+[1:400321]	 EXCV	Begin frame 0
+[1:400327]	 EXCV	Signal on task 0
+[1:400329]	 EXCV	Signal on task 1
+[1:400332]	 EXCV	Signal on task 2
+[1:400332]	 EXCV	Executive sleeps
+
+[1:400336]	 TSK0	Execution started
+[1:408404]	 TSK0	Execution stopped
+[1:408433]	 TSK1	Execution started
+[1:426094]	 TSK1	Execution stopped
+[1:426097]	 TSK2	Execution started
+[1:433942]	 TSK2	Execution stopped
+
+[1:440314]	 EXCV	Executive wakes up
+[1:440318]	 EXCV	Checking deadline miss
+[1:440320]	 EXCV	Begin frame 1
+[1:440326]	 EXCV	Signal on task 0
+[1:440328]	 EXCV	Signal on task 3
+[1:440329]	 EXCV	Executive sleeps
+
+[1:440332]	 TSK0	Execution started
+[1:448379]	 TSK0	Execution stopped
+[1:448381]	 TSK3	Execution started
+[1:474853]	 TSK3	Execution stopped
+
+[1:480313]	 EXCV	Executive wakes up
+[1:480317]	 EXCV	Checking deadline miss
+[1:480319]	 EXCV	Begin frame 2
+[1:480325]	 EXCV	Signal on task 0
+[1:480327]	 EXCV	Signal on task 1
+[1:480328]	 EXCV	Executive sleeps
+
+[1:480331]	 TSK0	Execution started
+[1:488382]	 TSK0	Execution stopped
+[1:488384]	 TSK1	Execution started
+[1:506032]	 TSK1	Execution stopped
+
+[1:520311]	 EXCV	Executive wakes up
+[1:520315]	 EXCV	Checking deadline miss
+[1:520317]	 EXCV	Begin frame 3
+[1:520322]	 EXCV	Signal on task 0
+[1:520324]	 EXCV	Signal on task 1
+[1:520325]	 EXCV	Executive sleeps
+
+[1:520328]	 TSK0	Execution started
+[1:528440]	 TSK0	Execution stopped
+[1:528442]	 TSK1	Execution started
+[1:546089]	 TSK1	Execution stopped
+
+[1:560314]	 EXCV	Executive wakes up
+[1:560317]	 EXCV	Checking deadline miss
+[1:560319]	 EXCV	Begin frame 4
+[1:560325]	 EXCV	Signal on task 0
+[1:560327]	 EXCV	Signal on task 1
+[1:560330]	 EXCV	Signal on task 4
+[1:560330]	 EXCV	Executive sleeps
+
+[1:560334]	 TSK0	Execution started
+
+[1:600226]	 EXCV	Executive wakes up
+[1:600226]	 EXCV	Checking deadline miss
+[1:600227]	 EXCV	DEADLINE MISS DETECTED from task 0
+[1:600228]	 EXCV	ABORTING TASK 1
+[1:600228]	 EXCV	ABORTING TASK 4
+[1:600229]	 EXCV	Begin frame 0
+[1:600229]	 EXCV	Signal on task 0
+[1:600230]	 EXCV	Signal on task 1
+[1:600232]	 EXCV	Signal on task 2
+[1:600232]	 EXCV	Executive sleeps
+
+[1:602655]	 TSK0	Execution stopped
+[1:602657]	 TSK1	Execution started
+[1:620305]	 TSK1	Execution stopped
+[1:620308]	 TSK2	Execution started
+[1:628154]	 TSK2	Execution stopped
+
+[1:640311]	 EXCV	Executive wakes up
+[1:640315]	 EXCV	Checking deadline miss
+[1:640317]	 EXCV	Begin frame 1
+[1:640323]	 EXCV	Signal on task 0
+[1:640325]	 EXCV	Signal on task 3
+[1:640325]	 EXCV	Executive sleeps
+
+[1:640329]	 TSK0	Execution started
+[1:648349]	 TSK0	Execution stopped
+[1:648352]	 TSK3	Execution started
+[1:674823]	 TSK3	Execution stopped
+
+[1:680312]	 EXCV	Executive wakes up
+[1:680316]	 EXCV	Checking deadline miss
+[1:680318]	 EXCV	Begin frame 2
+[1:680323]	 EXCV	Signal on task 0
+[1:680325]	 EXCV	Signal on task 1
+[1:680326]	 EXCV	Executive sleeps
+
+[1:680329]	 TSK0	Execution started
+[1:688355]	 TSK0	Execution stopped
+[1:688357]	 TSK1	Execution started
+[1:706006]	 TSK1	Execution stopped
+
+[1:720310]	 EXCV	Executive wakes up
+[1:720314]	 EXCV	Checking deadline miss
+[1:720316]	 EXCV	Begin frame 3
+[1:720321]	 EXCV	Signal on task 0
+[1:720323]	 EXCV	Signal on task 1
+[1:720324]	 EXCV	Executive sleeps
+
+[1:720327]	 TSK0	Execution started
+[1:728302]	 TSK0	Execution stopped
+[1:728304]	 TSK1	Execution started
+[1:745952]	 TSK1	Execution stopped
+
+[1:760314]	 EXCV	Executive wakes up
+[1:760318]	 EXCV	Checking deadline miss
+[1:760320]	 EXCV	Begin frame 4
+[1:760325]	 EXCV	Signal on task 0
+[1:760327]	 EXCV	Signal on task 1
+[1:760329]	 EXCV	Signal on task 4
+[1:760330]	 EXCV	Executive sleeps
+
+[1:760333]	 TSK0	Execution started
+[1:768391]	 TSK0	Execution stopped
+[1:768393]	 TSK1	Execution started
+[1:786045]	 TSK1	Execution stopped
+[1:786047]	 TSK4	Execution started
+[1:793917]	 TSK4	Execution stopped
+
+[1:800310]	 EXCV	Executive wakes up
+[1:800314]	 EXCV	Checking deadline miss
+[1:800317]	 EXCV	Begin frame 0
+[1:800322]	 EXCV	Signal on task 0
+[1:800325]	 EXCV	Signal on task 1
+[1:800327]	 EXCV	Signal on task 2
+[1:800327]	 EXCV	Executive sleeps
+
+[1:800331]	 TSK0	Execution started
+[1:808336]	 TSK0	Execution stopped
+[1:808339]	 TSK1	Execution started
+[1:825988]	 TSK1	Execution stopped
+[1:825991]	 TSK2	Execution started
+[1:833835]	 TSK2	Execution stopped
+
+[1:840313]	 EXCV	Executive wakes up
+[1:840316]	 EXCV	Checking deadline miss	
